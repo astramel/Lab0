@@ -8,5 +8,5 @@ List two truths and one lie about you below
 
 Bonus (+1), add your screen shot as an image here.
 ![Alt text](lab-0-learning-git-and-github-astramel/proof/Screen Shot 2018-01-23 at 1.23.58 PM.png) 
-
+nn
 
