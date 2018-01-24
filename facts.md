@@ -7,5 +7,5 @@ List two truths and one lie about you below
 
 
 Bonus (+1), add your screen shot as an image here.
-![title](https://github.com/username/reponame/Screen Shot 2018-01-23 at 1.23.58 PM/master/su‌​bfolders.../filename‌​.jpg)
+![My image](astramel.github.com/repository/img/Screen Shot 2018-01-23 at 1.23.58 PM.png)
 
