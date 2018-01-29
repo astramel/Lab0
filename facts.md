@@ -8,6 +8,6 @@ List two truths and one lie about you below
 
 Bonus (+1), add your screen shot as an image here.
 
-![alt text](<<astramel.github.com/repository/img/lab-0-learning-git-and-github-astramel/proof/Screen Shot 2018-01-23 at 1.23.58 PM.png)>>
+![alt text](https://github.com/astramel/Lab0/blob/master/proof/Screen%20Shot%202018-01-23%20at%201.23.58%20PM.png)
 
 
