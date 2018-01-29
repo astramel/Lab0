@@ -8,6 +8,6 @@ List two truths and one lie about you below
 
 Bonus (+1), add your screen shot as an image here.
 
-![Screenshot][id](Lab0/proof/Screen Shot 2018-01-23 at 1.23.58 PM.png/
+![alt text][id](Lab0/proof/Screen Shot 2018-01-23 at 1.23.58 PM.png/
 
 
